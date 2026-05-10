@@ -1,0 +1,33 @@
+# Maintainer roster for Meshery
+# Documentation: https://github.com/cncf/automation/tree/main/utilities/dot-project
+
+
+maintainers:
+  - project_id: "meshery"
+    org: "meshery"
+    teams:
+      - name: "project-maintainers"
+        members:
+          - aabidsofi19
+          - acald-creator
+          - adithyaakrishna
+          - aijeyomah
+          - aisuko
+          - alphax86
+          - asubedy
+          - cpepper96
+          - dheerajng
+          - hexxdump
+          - ianrwhitney
+          - leecalcote
+          - lekaf974
+          - mgfeller
+          - miacycle
+          - nikhil-ladha
+          - revolyssup
+          - sangramrath
+          - sudhanshutech
+          - thebeginner86
+          - thehh1974
+          - yashsharma1911
+          - girishranganathan
