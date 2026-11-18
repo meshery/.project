@@ -17,6 +17,9 @@ maturity_log:
   - phase: "sandbox"
     date: "2021-06-22T00:00:00Z"
     issue: "https://github.com/cncf/toc/pull/1169" # TODO: AUTO-DETECTED — please verify
+  - phase: "incubating"
+    date: "2026-10-07T00:00:00Z"
+    issue: "https://github.com/cncf/toc/pull/1264"
 
 repositories:
   - "https://github.com/meshery/meshery"
